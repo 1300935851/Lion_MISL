@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KAIFA_Api", "KAIFA_Api.csproj", "{46AA9590-D41E-4C72-BE58-819190059476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46AA9590-D41E-4C72-BE58-819190059476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AA9590-D41E-4C72-BE58-819190059476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AA9590-D41E-4C72-BE58-819190059476}.Debug|x64.ActiveCfg = Debug|x64
+		{46AA9590-D41E-4C72-BE58-819190059476}.Debug|x64.Build.0 = Debug|x64
+		{46AA9590-D41E-4C72-BE58-819190059476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AA9590-D41E-4C72-BE58-819190059476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46AA9590-D41E-4C72-BE58-819190059476}.Release|x64.ActiveCfg = Release|x64
+		{46AA9590-D41E-4C72-BE58-819190059476}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359FF79E-CF20-41A7-A71C-123A3D1407BD}
+	EndGlobalSection
+EndGlobal
